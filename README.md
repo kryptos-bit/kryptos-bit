@@ -1,4 +1,4 @@
-- 👋 Hi, we are engineering team at cloudarray.io
+- 👋 Hi, we are the engineering team at cloudarray.io
 - 👀 we are interested in platform engineering, cloud architecture & security.
 - 🌱 Learning is a continuous process.
 - 💞️ wanting to build plug-and-play APIs that extend the capabilities of services within cloud providers.
